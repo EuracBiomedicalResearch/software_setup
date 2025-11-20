@@ -7,3 +7,11 @@ function to install them.
   function to install the R libraries.
 - R libraries to install should be added to *txt* file(s), one line per R
   package.
+
+## Sets of R packages
+
+- [packages-general.txt](packages-general.txt): general, uncategorized, R
+  packages.
+- [packages-stats.txt](packages-stats.txt): general statistics-related packages.
+- [packages-metabolomics.txt](packages-metabolomics.txt): R packages for Mass
+  Spectrometry and metabolomics data analysis.
