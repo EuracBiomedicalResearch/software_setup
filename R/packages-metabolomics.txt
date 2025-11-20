@@ -1,0 +1,23 @@
+## R packages for metabolomics and MS in general
+## General infrastructure
+Spectra
+MsExperiment
+MsCoreUtils
+MetaboCoreUtils
+CompoundDb
+QFeatures
+MsQuality
+MsDataHub
+SpectriPy
+SpectraQL
+## Data backends
+MsBackendSql
+MsBackendMgf
+MsBackendMsp
+MsBackendMetaboLights
+MsBackendMassbank
+## Data analysis
+xcms
+MsFeatures
+MetaboAnnotation
+Rdisop
