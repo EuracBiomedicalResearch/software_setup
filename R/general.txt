@@ -1,0 +1,14 @@
+## R libraries providing general functionality
+## Tables I/O
+pander
+knitr
+readxl
+writexl
+DT
+## visualization
+RColorBrewer
+ggplot2
+pheatmap
+beeswarm
+vioplot
+UpSetR
