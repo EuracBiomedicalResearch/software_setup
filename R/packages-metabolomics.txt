@@ -1,6 +1,7 @@
 ## R packages for metabolomics and MS in general
 ## General infrastructure
 Spectra
+Chromatograms
 MsExperiment
 MsCoreUtils
 MetaboCoreUtils

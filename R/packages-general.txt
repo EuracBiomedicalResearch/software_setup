@@ -12,3 +12,6 @@ pheatmap
 beeswarm
 vioplot
 UpSetR
+plotly
+## other
+reshape2
