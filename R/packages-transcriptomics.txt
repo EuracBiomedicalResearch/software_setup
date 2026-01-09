@@ -1,0 +1,25 @@
+## R packages for transcriptomic data
+edgeR
+DESeq2
+enrichR
+scales
+umap
+Gviz
+rtracklayer
+ComplexHeatmap
+GenomicRanges
+GenomicFeatures
+GenomicAlignments
+Biostrings 
+BSgenome
+rstatix 
+igraph
+geomnet
+ggseqlogo
+biomaRt
+Seurat
+monocle3
+
+
+
+

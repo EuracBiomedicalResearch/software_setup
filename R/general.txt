@@ -5,6 +5,7 @@ knitr
 readxl
 writexl
 DT
+data.table
 ## visualization
 RColorBrewer
 ggplot2
@@ -12,3 +13,5 @@ pheatmap
 beeswarm
 vioplot
 UpSetR
+ggrepel
+ggthemes
