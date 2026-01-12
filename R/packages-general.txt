@@ -23,3 +23,5 @@ quarto
 tinytex
 knitr
 AnnotationHub
+jorainer/atc
+EuracBiomedicalResearch/tidyfr

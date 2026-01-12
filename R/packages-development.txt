@@ -11,3 +11,7 @@ covr
 jsonlite
 rhdf5
 Rcpp
+alabaster.base
+alabaster.matrix
+alabaster.ranges
+alabaster.se
