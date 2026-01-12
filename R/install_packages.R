@@ -29,3 +29,6 @@ install_packages <- function(path = ".", files = dir(path, pattern = ".txt$")) {
         message("You might want to install them manually")
     }
 }
+
+## RUn the installation.
+install_packages()
