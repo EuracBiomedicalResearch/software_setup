@@ -4,9 +4,10 @@ usethis
 roxygen2
 microbenchmark
 benchmarkme
-PeakRAM
+peakRAM
 vdiffr
 testthat
 codecov
 jsonlite
 rhdf5
+Rcpp

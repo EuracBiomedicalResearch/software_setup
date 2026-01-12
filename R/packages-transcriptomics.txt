@@ -14,9 +14,9 @@ Biostrings
 BSgenome
 rstatix
 igraph
-geomnet
+sctyner/geomnet
 ggseqlogo
 biomaRt
 Seurat
-monocle3
+cole-trapnell-lab/monocle3
 ensembldb
