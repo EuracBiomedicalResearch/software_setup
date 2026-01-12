@@ -13,5 +13,15 @@ pheatmap
 beeswarm
 vioplot
 UpSetR
+plotly
 ggrepel
 ggthemes
+## other
+reshape2
+rmarkdown
+quarto
+tinytex
+knitr
+AnnotationHub
+jorainer/atc
+EuracBiomedicalResearch/tidyfr

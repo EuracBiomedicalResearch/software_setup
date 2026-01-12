@@ -1,0 +1,17 @@
+## Packages for R software development
+devtools
+usethis
+roxygen2
+microbenchmark
+benchmarkme
+peakRAM
+vdiffr
+testthat
+covr
+jsonlite
+rhdf5
+Rcpp
+alabaster.base
+alabaster.matrix
+alabaster.ranges
+alabaster.se

@@ -35,4 +35,14 @@ jorainer/ifb_bioconductor_docker:RELEASE_3_22`.
 Along with R, also R libraries need to be installed. The sets of libraries are
 defined in *txt* files within the *R* sub-folder.
 
+### Installation of R packages
 
+The set of R packages to be installed are listed in *txt* files in the *R*
+sub-folder. The names of the R libraries should be reported there, one line per
+library. R libraries that are only available through GitHub can be listed using
+the *organization*/*repository name* syntax (e.g. `"jorainer/atc"`) for the R
+package with the ATC definition.
+
+The packages can be installed by *sourcing* the
+[R/install_packages.R](R/install_packages.R) R script (e.g. with `Rscript
+install_packages.R` executed within the *R* sub-folder).

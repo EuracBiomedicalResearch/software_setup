@@ -13,4 +13,22 @@
 install_packages <- function(path = ".", files = dir(path, pattern = ".txt$")) {
     if (!length(files))
         stop("No files provided or found in the specified path")
+    pkg <- character()
+    for (i in seq_along(files)) {
+        message("Installing packages defined in \"", files[i], "\"")
+        pkgs <- read.table(files[i])[, 1L]
+        BiocManager::install(pkgs, ask = FALSE)
+        pkg <- c(pkg, pkgs)
+    }
+    pkgi <- installed.packages()[, "Package"]
+    pkg <- vapply(strsplit(pkg, "/"), function(z) z[length(z)], NA_character_)
+    pkgn <- pkg[!pkg %in% pkgi]
+    if (length(pkgn)) {
+        message("\n\nThe following packages failed to install:")
+        message(paste0(pkgn, collapse = "\n"))
+        message("You might want to install them manually\n\n")
+    }
 }
+
+## RUn the installation.
+install_packages()
