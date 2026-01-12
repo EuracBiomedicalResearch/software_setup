@@ -18,3 +18,8 @@ ggrepel
 ggthemes
 ## other
 reshape2
+rmarkdown
+quarto
+tinytex
+knitr
+AnnotationHub

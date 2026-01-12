@@ -1,0 +1,12 @@
+## Packages for R software development
+devtools
+usethis
+roxygen2
+microbenchmark
+benchmarkme
+PeakRAM
+vdiffr
+testthat
+codecov
+jsonlite
+rhdf5

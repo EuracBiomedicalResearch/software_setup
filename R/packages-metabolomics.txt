@@ -11,6 +11,8 @@ MsQuality
 MsDataHub
 SpectriPy
 SpectraQL
+MsDataHub
+CAMERA
 ## Data backends
 MsBackendSql
 MsBackendMgf
