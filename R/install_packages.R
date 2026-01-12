@@ -24,9 +24,9 @@ install_packages <- function(path = ".", files = dir(path, pattern = ".txt$")) {
     pkg <- vapply(strsplit(pkg, "/"), function(z) z[length(z)], NA_character_)
     pkgn <- pkg[!pkg %in% pkgi]
     if (length(pkgn)) {
-        message("The following packages failed to install:")
+        message("\n\nThe following packages failed to install:")
         message(paste0(pkgn, collapse = "\n"))
-        message("You might want to install them manually")
+        message("You might want to install them manually\n\n")
     }
 }
 
