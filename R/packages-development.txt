@@ -7,7 +7,7 @@ benchmarkme
 peakRAM
 vdiffr
 testthat
-codecov
+covr
 jsonlite
 rhdf5
 Rcpp
