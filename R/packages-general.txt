@@ -25,3 +25,10 @@ knitr
 AnnotationHub
 jorainer/atc
 EuracBiomedicalResearch/tidyfr
+nephro
+Category
+gridExtra
+kableExtra
+formatdown
+gtools
+extrafont
