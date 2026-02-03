@@ -7,3 +7,12 @@ multcomp
 survey
 limma
 caret
+ROCR
+effsize
+pcaMethods
+clusterProfiler
+survival
+treemap
+lme4
+randomForest
+venn

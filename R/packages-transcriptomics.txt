@@ -20,3 +20,4 @@ biomaRt
 Seurat
 # cole-trapnell-lab/monocle3; disabled. needs grr, which is not available
 ensembldb
+org.Hs.eg.db
