@@ -23,6 +23,8 @@ ComplexHeatmap
 reshape2
 rmarkdown
 quarto
+BiocStyle
+chron
 tinytex
 knitr
 AnnotationHub
