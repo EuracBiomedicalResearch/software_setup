@@ -13,6 +13,7 @@ SpectriPy
 SpectraQL
 MsDataHub
 CAMERA
+RforMassSpectrometry/RuSirius
 ## Data backends
 MsBackendSql
 MsBackendMgf
@@ -20,8 +21,12 @@ MsBackendMsp
 MsBackendMetaboLights
 MsBackendMassbank
 RforMassSpectrometry/MsIO
+RforMassSpectrometry/MsBackendMassIVE
 ## Data analysis
 xcms
 MsFeatures
 MetaboAnnotation
 Rdisop
+notame
+notameViz
+notameStats

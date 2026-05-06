@@ -16,10 +16,15 @@ UpSetR
 plotly
 ggrepel
 ggthemes
+ggfortify
+gridExtra
+ComplexHeatmap
 ## other
 reshape2
 rmarkdown
 quarto
+BiocStyle
+chron
 tinytex
 knitr
 AnnotationHub
@@ -32,3 +37,7 @@ kableExtra
 formatdown
 gtools
 extrafont
+zen4R
+## Databases
+RSQLite
+duckdb
