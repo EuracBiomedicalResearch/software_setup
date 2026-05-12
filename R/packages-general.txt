@@ -38,6 +38,7 @@ formatdown
 gtools
 extrafont
 zen4R
+stringr
 ## Databases
 RSQLite
 duckdb
