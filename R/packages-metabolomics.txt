@@ -19,9 +19,15 @@ MsBackendSql
 MsBackendMgf
 MsBackendMsp
 MsBackendMetaboLights
+MsBackendMetabolomicsWorkbench
+MsBackendMassIVE
 MsBackendMassbank
-RforMassSpectrometry/MsIO
-RforMassSpectrometry/MsBackendMassIVE
+MsBackendMzPeak
+## stashes and formats
+MsStash
+SpectraStash
+MsExperimentStash
+RmzTabM
 ## Data analysis
 xcms
 MsFeatures
@@ -30,3 +36,4 @@ Rdisop
 notame
 notameViz
 notameStats
+lcmsPlot
